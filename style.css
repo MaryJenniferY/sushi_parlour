@@ -35,7 +35,7 @@ nav ul{
 }
 
 h1{
-    margin: 70px 0;
+    margin: 35px 0 70px;
     color: #9aae6cff; 
     font-weight: 200;
     font-family: serif;
@@ -47,7 +47,7 @@ h1 span{
 
 .mainpage .main{
     background: rgba(0,0,0,0.7);
-    margin: 10px 10px 30px 20px;
+    margin: 50px 10px 50px 20px;
     text-align:  center;
 }
 
