@@ -51,13 +51,12 @@ h1 span{
     text-align:  center;
 }
 
-.main button, button a{
+.main button, {
     background: rgba(154,174,108,0.4);
     font-size: 20px;
     font-family: arial;
     padding: 10px 15px;
     border: solid 1px #9aae6cff;
-    color: #9aae6cff;
     margin-bottom: 150px;
 }
 
