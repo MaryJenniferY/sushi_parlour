@@ -203,7 +203,7 @@ ul{
 
 .h3 label, .h3 input{
     width: 90%;
-    height: 10px;
+    height: auto;
     padding: 17px 5px;
     color: azure;
     margin: 10px 0 5px;
