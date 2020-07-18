@@ -51,7 +51,7 @@ h1 span{
     text-align:  center;
 }
 
-.main button{
+.main button, button a{
     background: rgba(154,174,108,0.4);
     font-size: 20px;
     font-family: arial;
